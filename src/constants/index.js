@@ -22,6 +22,7 @@ import {
   tesla,
   shopify,
   skyscanner,
+  careplus,
   brainwave,
   promptopia,
   ai_summarizer,
@@ -217,7 +218,7 @@ const experiences = [
     company_name: "Skyscanner",
     icon: skyscanner,
     iconBg: "#E6DEDD",
-    date: "Aug 2023 - Sept 2023",
+    date: "Mar 2023 - Present",
     points: [
       "Completed a job simulation where I built a web application using React as a front-end engineer at Skyscanner.",
       "Developed a page for picking a travel date using Skyscanner’s open-source Backpack React library.",
@@ -254,6 +255,32 @@ const testimonials = [
 ];
 
 const projects = [
+   {
+    name: "CarePlus",
+    description: "Healthcare booking site with Next.js and Appwrite. Includes a Passkey admin panel for managing appointments.",
+    tags: [
+      {
+        name: "next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "appwrite",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Tailwind CSS",
+        color: "yellow-text-gradient",
+      },
+    ],
+    website_url: "https://careplus-nb.vercel.app/",
+    image: careplus,
+    source_code_link: "https://github.com/nikbhaladhare2104/CarePlus",
+  },
+
   {
     name: "Brainwave",
     description:

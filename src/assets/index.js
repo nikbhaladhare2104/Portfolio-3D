@@ -29,6 +29,7 @@ import walmart from "./company/walmart.png";
 import jpmorgan from "./company/jpmorgan.png";
 import skyscanner from "./company/skyscanner.png";
 
+import careplus from "./careplus.png";
 import brainwave from "./brainwave.png";
 import promptopia from "./promptopia.png";
 import ai_summarizer from "./ai_summarizer.png";
@@ -67,6 +68,7 @@ export {
   walmart,
   jpmorgan,
   skyscanner,
+  careplus,
   brainwave,
   promptopia,
   ai_summarizer,
